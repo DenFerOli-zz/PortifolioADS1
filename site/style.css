@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(229, 255, 0);
+}
+
+ul li{
+    display: inline-block;
+    font-weight: bold;
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 6px;
+    color: black;
+    font-size: 30px;
+}
